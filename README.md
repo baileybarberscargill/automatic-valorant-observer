@@ -1,3 +1,9 @@
+
+# Automatic Valorant Observer using Machine Learning
+
+
+Created by [Bailey Barber-Scargill](https://www.github.com/baileybarberscargill)
+
 # About the Project
 
 Observing has always been one of the most important jobs in the esports industry. However, I believe this could be improved by the use of Machine Learning to automatically decide which player the audience should be viewing.
